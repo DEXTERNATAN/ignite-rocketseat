@@ -1,23 +1,12 @@
-<!--
-*** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
-*** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
-*** Request ou abra uma Issue com a tag "sugestão".
-*** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
--->
-
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rocketseat.RocketseatReactNative.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
-![GitHub](https://img.shields.io/github/license/rocketseat/rocketseat-vscode-react-native-snippets.svg)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://rocketseat.com.br">
+  <!-- <a href="https://rocketseat.com.br">
     <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" alt="Logo">
-  </a>
+  </a> -->
 
-  <h3 align="center">React Native Snippets</h3>
+  <h1 align="center">Ignite Rocketseat</h1>
+  <h3 align="center">Projeto de aprendizagem de ReactJS usando template da rocketseat</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
