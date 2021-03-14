@@ -13,17 +13,34 @@ interface Task {
 export function TaskList() {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [newTaskTitle, setNewTaskTitle] = useState('');
+  const [randomId, setRandomId] = useState(0);
 
   function handleCreateNewTask() {
     // Crie uma nova task com um id random, não permita criar caso o título seja vazio.
+    setRandomId(randomId + 1);
+
+    if(newTaskTitle.length){
+      let objTasks = [...tasks, { id: randomId, title: newTaskTitle, isComplete: false }];
+      setTasks(objTasks);
+    }else{
+      console.log(`O nome da tarefa é obrigatorio!`);
+    }
+
   }
 
   function handleToggleTaskCompletion(id: number) {
     // Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
+    let task = tasks.filter((data) => data.id === id);
+    let newTask = [...tasks]; // faz uma copia do array anterior
+    newTask[task[0].id] = { id: task[0].id, title: task[0].title, isComplete: !task[0].isComplete }
+    setTasks(newTask);
   }
 
   function handleRemoveTask(id: number) {
     // Remova uma task da listagem pelo ID
+    let task = tasks.filter((data) => data.id !== id);
+    if (!window.confirm("Deseja realmente excluir este post?")) return;
+      setTasks(task);
   }
 
   return (

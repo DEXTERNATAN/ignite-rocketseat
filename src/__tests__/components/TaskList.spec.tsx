@@ -90,6 +90,8 @@ describe('App Page', () => {
 
     const [addedFirstTaskRemoveButton] = screen.getAllByTestId('remove-task-button');
 
+    window.confirm = jest.fn(() => true) // always click 'yes'
+    
     fireEvent.click(addedFirstTaskRemoveButton);
 
     expect(addedFirstTaskTitle).not.toBeInTheDocument();
