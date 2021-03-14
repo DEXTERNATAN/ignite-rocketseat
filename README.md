@@ -17,7 +17,7 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Começando](#come%C3%A7ando)
   - [Instalação](#instala%C3%A7%C3%A3o)
-  - [Linguagens Suportadas](#linguagens)
+  - [Linguagens](#linguagens)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
