@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://rocketseat.com.br">
+  <a href="https://rocketseat.com.br">
     <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png" alt="Logo">
-  </a> -->
+  </a>
 
   <h1 align="center">Ignite Rocketseat</h1>
   <h3 align="center">Projeto de aprendizagem de ReactJS usando template da rocketseat</h3>
