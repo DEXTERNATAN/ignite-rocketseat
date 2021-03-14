@@ -33,7 +33,7 @@ Além de praticar toda a parte de testes em cima desta aplicação.
 
 ### Instalação
 
-Basta clonar este repositorio e rodar os comandos `npm install && npm start`.
+Basta clonar este repositorio e rodar os comandos `npm install && npm run dev`.
 
 ### Linguagens
 
