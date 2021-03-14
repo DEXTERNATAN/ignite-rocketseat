@@ -33,7 +33,10 @@ Além de praticar toda a parte de testes em cima desta aplicação.
 
 ### Instalação
 
-Basta clonar este repositorio e rodar os comandos `npm install && npm start`.
+Basta clonar este repositorio e rodar os comandos `npm install && npm run dev`. A aplicação será executada na porta http://localhost:8080/ e terá a aparência como na imagem abaixo:
+
+<img width="1440" alt="Captura de Tela 2021-03-14 às 09 06 40" src="https://user-images.githubusercontent.com/1324863/111067858-ea93f480-84a4-11eb-8586-054ac4a37508.png">
+
 
 ### Linguagens
 
