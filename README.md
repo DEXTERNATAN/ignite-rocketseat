@@ -26,7 +26,7 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a criar uma aplicação para treinar o que aprendi até agora no ReactJS.
+Este projeto visa a criar uma aplicação para treinar o que aprendi até agora no ReactJS. Neste projeto eu crio um todo-list com as ações de cadastrar, deletar, excluir e listar.
 
 ## Começando
 
