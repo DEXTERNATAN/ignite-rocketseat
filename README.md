@@ -17,9 +17,7 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Começando](#come%C3%A7ando)
   - [Instalação](#instala%C3%A7%C3%A3o)
-  - [Linguagens Suportadas](#linguagens-suportadas)
-  - [Como Usar?](#como-usar)
-  - [Snippets](#snippets)
+  - [Linguagens Suportadas](#linguagens)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
@@ -28,37 +26,19 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração em aplicações React Native.
+Este projeto visa a criar uma aplicação para treinar o que aprendi até agora no ReactJS.
 
 ## Começando
 
 ### Instalação
 
-Para instalar uma extensão você pode executar o **Command Pallete** através do comando `Ctrl + Shift + P` ou `Cmd + Shift + P` , digitar `Install Extensions` e por fim dar um `Enter`, feito isso pesquise por Rocketseat e você vai encontrar a extensão **Rocketseat React Native**.
+Basta clonar este repositorio e rodar os comandos `yarn install && yarn start`.
 
-### Linguagens Suportadas
+### Linguagens
 
-- JavaScript (.js)
+- ReactJS
 - TypeScript (.ts)
-- JavaScript React (.jsx)
-- TypeScript React (.tsx)
-
-### Como Usar?
-
-Quando você instalar a Extensão o desenvolvimento em React Native será bem mais divertido.
-
-![Create React Native Component](https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/component.gif)
-
-### Snippets
-
-Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada um. O **⇥** significa a tecla `TAB`.
-
-|                 Gatilho | Conteúdo                                                                      |
-| ----------------------: | ----------------------------------------------------------------------------- |
-|                `rnfc →` | Cria um Componente **Functional**                                             |
-|           `styled-rn →` | Cria um arquivo de Estilização com **Styled Components**                      |
-
-<!-- CONTRIBUTING -->
+- Jest
 
 ## Contribuição
 
@@ -81,4 +61,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
+Natanael de Sousa Leite - [Github](v) - **natansl@gmail.com**
